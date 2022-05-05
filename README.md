@@ -12,3 +12,6 @@ START
 G43H15Z200.;
 INSERT
 START
+
+Притираем по плитке
+
