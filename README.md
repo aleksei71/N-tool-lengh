@@ -1,0 +1,6 @@
+MDI
+T15M6;
+START
+HOME
++Z
++Y
